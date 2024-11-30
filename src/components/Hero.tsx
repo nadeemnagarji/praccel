@@ -27,7 +27,7 @@ const Hero = ()=>{
             <div className="w-full md:w-1/2 flex justify-center mb-8 md:mb-0">
                 <img 
                     className="max-w-full h-auto max-h-[500px] md:max-h-[800px] object-contain" 
-                    src="/Main.gif" 
+                    src="/hero.gif"
                     alt="Hero Image"
                 />
             </div>
