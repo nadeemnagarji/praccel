@@ -1,7 +1,7 @@
 import  { useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { Button } from "./ui/button"
-import logo from "../../logo.png"
+import logo from "../../public/logo.png"
 import { Menu, X } from 'lucide-react'
 
 const routes = [
