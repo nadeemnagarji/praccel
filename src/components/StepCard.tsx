@@ -20,7 +20,7 @@ const StepCard = ({image,title,description,step}:StepCardProps)=>{
             transition: { duration: 0.3 }
           }}
         
-        className="h-max-content cursor-pointer min-w-full border rounded-lg" > 
+        className="h-max-content cursor-pointer min-w-full border rounded-lg mb-4" > 
         <CardHeader className="flex items-center justify-center">
         <CardTitle className="text-2xl font-semibold text-gray-600 -mb-6">{step}</CardTitle> </CardHeader> 
         <CardContent> 
