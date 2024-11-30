@@ -12,11 +12,7 @@ import {
 import TestimonialCard from "./TestimonialCard"
 
 const TestimonialsContent = [
-    {
-        content:"Flowbite is just awesome. It contains tons of predesigned components and pages starting from login screen to complex dashboard. Perfect choice for your next SaaS application.",
-        author:"Micheal Gough",
-        address:"CEO at Google"
-    },
+  
     {
         content:"Praccel develops good reading habits among students through practice.",
         author:"Father of Viola Sanvi, Class 5",
